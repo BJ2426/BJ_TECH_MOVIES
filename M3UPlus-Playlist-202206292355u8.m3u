@@ -1,7 +1,7 @@
 #EXTM3U url-tvg=""
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Netflix" tvg-logo="" group-title="NETFLIX",NETFLIX
 https://assets-1.entertainvideo.com/assets/media/5e14d90eb270dcd3f04ff97a16269693/dash/5e14d90eb270dcd3f04ff97a16269693.mpd
-#EXTINF:-2 tvg-id="(no tvg-id)" tvg-name="Netflix" tvg-logo="" group-title="NETFLIX",Oh My Dog Hindi
+#EXTINF:-2 tvg-id="(no tvg-id)" tvg-name="Netflix" tvg-logo="" group-title="NETFLIX",OhMyDogHindi
 https://assets-1.mypowerdisk.com/transcode_video/f84f17ddf35c66d55f5a959bf9703263/dash/8c292177a14fdddd9fc522d702724489.mpd
 
 
