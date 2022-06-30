@@ -1,3 +1,6 @@
 #EXTM3U url-tvg=""
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Netflix" tvg-logo="" group-title="NETFLIX",NETFLIX
 https://assets-1.entertainvideo.com/assets/media/5e14d90eb270dcd3f04ff97a16269693/dash/5e14d90eb270dcd3f04ff97a16269693.mpd
+
+#EXTINF:-2 tvg-id="(no tvg-id)" tvg-name="PrimeVideo" tvg-logo="" group-title="PrimeVideo",PrimeVideo
+https://assets-1.entertainvideo.com/assets/media/5e14d90eb270dcd3f04ff97a16269693/dash/5e14d90eb270dcd3f04ff97a16269693.mpd
